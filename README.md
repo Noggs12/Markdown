@@ -130,4 +130,4 @@ Párrafo 2.
 Este es el README principal del repositorio.
 
 Aquí encontrarás un enlace al documento adicional:  
-👉 [Ir al documento](documento.md)
+👉 [Ir al documento](documentoprueba.md)
