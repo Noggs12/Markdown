@@ -4,7 +4,7 @@ Este documento demuestra varias características de **Markdown**.
 ---
 
 ## 1. Imagen externa como enlace
-[![Imagen de ejemplo](https://placekitten.com/200/300)](https://placekitten.com)
+[![Imagen de ejemplo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fgithub-copilot-update-stops-ai-model-from-revealing-secrets%2F&psig=AOvVaw3ox87oDiQHjIcdj50RHirx&ust=1758653110795000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjg9-KM7Y8DFQAAAAAdAAAAABAL)
 
 ---
 
